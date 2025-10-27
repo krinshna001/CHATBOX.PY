@@ -1,1 +1,1 @@
-simple chatbox
+Simple chatbot
